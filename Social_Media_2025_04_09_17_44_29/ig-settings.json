@@ -1,0 +1,1970 @@
+{
+    "Settings": {
+        "type": "category",
+        "newCategory": "",
+        "items": {
+            "Your account": {
+                "type": "heading",
+                "newCategory": "profile"
+            },
+            "Accounts Center": {
+                "type": "category",
+                "newCategory": "profile",
+                "items": {
+                    "Manage your connected experiences and account settings across Meta technologies like Facebook, Instagram and Meta Horizon. Learn more": {
+                        "type": "description",
+                        "newCategory": "profile"
+                    },
+                    "Profiles": {
+                        "type": "category",
+                        "newCategory": "profile",
+                        "items": {
+                            "Manage your profile info, and use the same info across Facebook, Instagram and Meta Horizon. Add more profiles by adding your accounts. Learn more": {
+                                "type": "description",
+                                "newCategory": "profile"
+                            },
+                            "Instagram": {
+                                "type": "category",
+                                "newCategory": "profile"
+                            },
+                            "Add accounts": {
+                                "type": "category",
+                                "newCategory": "profile",
+                                "items": {
+                                    "Select the account you want to add": {
+                                        "type": "description",
+                                        "newCategory": "profile"
+                                    },
+                                    "Add Facebook account": {
+                                        "type": "page",
+                                        "newCategory": "profile"
+                                    },
+                                    "Add Instagram account": {
+                                        "type": "page",
+                                        "newCategory": "profile"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Connected experiences": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Sharing across profiles": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Logging in with accounts": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Account settings": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Password and security": {
+                        "type": "category",
+                        "newCategory": "profile",
+                        "items": {
+                            "Login & recovery": {
+                                "type": "heading",
+                                "newCategory": "profile",
+                                "subtitle": "Manage your passwords, login preferences and recovery methods."
+                            },
+                            "Change password": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Two-factor authentication": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Saved login": {
+                                "type": "category",
+                                "newCategory": "profile",
+                                "items": {
+                                    "Saved login info": {
+                                        "type": "toggle",
+                                        "newCategory": "profile",
+                                        "defaultState": "Off",
+                                        "subtitle": "We'll remember the login info for you, so you won't need to enter it on your iCloud devices."
+                                    }
+                                }
+                            },
+                            "Security checks": {
+                                "type": "heading",
+                                "newCategory": "profile",
+                                "subtitle": "Review security issues by running checks across apps, devices and emails sent."
+                            },
+                            "Where you're logged in": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Login alerts": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Recent emails": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Security Checkup": {
+                                "type": "category",
+                                "newCategory": "profile",
+                                "items": {
+                                    "Help secure your account": {
+                                        "type": "heading",
+                                        "newCategory": "profile"
+                                    },
+                                    "We recommend you review your info and add extra login protection to your account. Accurate info will help us connect if there's ever a security issue with your account.": {
+                                        "type": "description",
+                                        "newCategory": "profile"
+                                    },
+                                    "Password": {
+                                        "type": "page",
+                                        "newCategory": "profile"
+                                    },
+                                    "Email": {
+                                        "type": "page",
+                                        "newCategory": "profile"
+                                    },
+                                    "Mobile phone number": {
+                                        "type": "page",
+                                        "newCategory": "profile"
+                                    },
+                                    "Two-factor authentication": {
+                                        "type": "page",
+                                        "newCategory": "profile"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Personal details": {
+                        "type": "category",
+                        "newCategory": "",
+                        "items": {
+                            "Meta uses this information to verify your identity and to keep our community safe. You decide what personal details you make visible to others.": {
+                                "type": "description",
+                                "newCategory": "profile"
+                            },
+                            "Contact info": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Birthday": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Account ownership and control": {
+                                "type": "category",
+                                "newCategory": "profile",
+                                "subtitle": "Manage your data, modify your legacy contact, deactivate or delete your accounts and profiles.",
+                                "items": {
+                                    "Deactivation or deletion": {
+                                        "type": "page",
+                                        "newCategory": "profile",
+                                        "subtitle": "Temporarily deactivate or permanently delete your accounts and profiles."
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Your information and permissions": {
+                        "type": "category",
+                        "newCategory": "profile",
+                        "items": {
+                            "Download your information": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Transfer a copy of your information": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Search history": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "View, download or transfer your information and activity on our apps.": {
+                                "type": "description",
+                                "newCategory": "profile"
+                            },
+                            "Your activity off Meta technologies": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Specific ad partners": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            },
+                            "Upload contacts": {
+                                "type": "category",
+                                "newCategory": "profile",
+                                "items": {
+                                    "Connect contacts": {
+                                        "type": "toggle",
+                                        "newCategory": "profile",
+                                        "defaultState": "Off",
+                                        "subtitle": "We'll sync and securely store your contacts to help you connect with people you know on Instagram, recommend things you care about and offer you a better service. You can choose which contacts to follow. Disconnect anytime to stop syncing. Learn more"
+                                    }
+                                }
+                            },
+                            "Control what information Meta technologies can use to influence your experiences.": {
+                                "type": "description",
+                                "newCategory": "profile"
+                            }
+                        }
+                    },
+                    "Ad preferences": {
+                        "type": "page",
+                        "newCategory": "home,profile"
+                    },
+                    "Meta Pay": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Show your profile is verified": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Accounts": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Add more accounts": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    }
+                },
+                "subtitle": "Password, security, personal details, ad preferences"
+            },
+            "How you use Instagram": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Saved": {
+                "type": "page",
+                "newCategory": "home,profile"
+            },
+            "Archive": {
+                "type": "page",
+                "newCategory": "post,profile"
+            },
+            "Your activity": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Interactions": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Likes": {
+                        "type": "page",
+                        "newCategory": "home"
+                    },
+                    "Comments": {
+                        "type": "page",
+                        "newCategory": "home"
+                    },
+                    "Notes": {
+                        "type": "page",
+                        "newCategory": "dms"
+                    },
+                    "Tags": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Sticker responses": {
+                        "type": "page",
+                        "newCategory": "home"
+                    },
+                    "Reviews": {
+                        "type": "page",
+                        "newCategory": ""
+                    },
+                    "Removed and archived content": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Recently deleted": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Archived": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Content you shared": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Posts": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Reels": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Highlights": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Suggested content": {
+                        "type": "heading",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "Not interested": {
+                        "type": "page",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "Interested": {
+                        "type": "page",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "How you use Instagram": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Time spent": {
+                        "type": "category",
+                        "newCategory": "",
+                        "items": {
+                            "Daily average": {
+                                "type": "time-stats",
+                                "newCategory": "home,profile"
+                            },
+                            "Manage your time": {
+                                "type": "heading",
+                                "newCategory": "home,profile"
+                            },
+                            "Daily limit": {
+                                "type": "single-choice",
+                                "newCategory": "home,profile",
+                                "options": [
+                                    "15 minutes",
+                                    "30 minutes",
+                                    "45 minutes",
+                                    "1 hour",
+                                    "2 hours",
+                                    "Off"
+                                ],
+                                "defaultState": "Off"
+                            },
+                            "Sleep mode": {
+                                "type": "page",
+                                "newCategory": "home,profile"
+                            }
+                        }
+                    },
+                    "Account history": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Recent searches": {
+                        "type": "page",
+                        "newCategory": "explore"
+                    },
+                    "Link History": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Information you shared with Instagram": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Transfer your information": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Download your information": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    }
+                }
+            },
+            "Notifications": {
+                "type": "category",
+                "newCategory": "notifications",
+                "items": {
+                    "Push notifications": {
+                        "type": "heading",
+                        "newCategory": "notifications"
+                    },
+                    "Pause all notifications": {
+                        "type": "toggle",
+                        "newCategory": "notifications",
+                        "defaultState": "Off",
+                        "subtitle": "Temporarily pause notifications"
+                    },
+                    "Sleep mode": {
+                        "type": "page",
+                        "newCategory": "notifications",
+                        "subtitle": "Automatically mute notifications at night or whenever you need to focus."
+                    },
+                    "Posts, stories and comments": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Likes": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed liked your photo."
+                            },
+                            "Likes and comments on photos of you": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed commented on a post you're tagged in."
+                            },
+                            "Photos of you": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed tagged you in a photo."
+                            },
+                            "Comments": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed commented: 'Nice shot!'"
+                            },
+                            "Comment likes and pins": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed liked your comment: 'Nice shot!' and other similar notifications."
+                            },
+                            "Comment daily digest": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "From everyone",
+                                "subtitle": "johnappleseed recently commented on this post: Nice shot!"
+                            },
+                            "Posts suggested for you": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed shared a post you might like."
+                            },
+                            "First posts and stories": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "See johnappleseed's first story on Instagram, and other similar notifications."
+                            },
+                            "Notes": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed, janeappleseed and 3 others shared notes."
+                            },
+                            "Story Comments": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "From everyone",
+                                "subtitle": "johnappleseed commented: Nice shot!"
+                            },
+                            "Add to post submissions": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed and 3 others want to add to your post. Review their submissions."
+                            },
+                            "Added to post": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed added your photo to their post."
+                            },
+                            "Collaboration invites": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed invited you to collaborate on a post."
+                            }
+                        }
+                    },
+                    "Following and followers": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "New followers": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "John Appleseed (johnappleseed) started following you."
+                            },
+                            "Accepted follow requests": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "John Appleseed (johnappleseed) accepted your follow request."
+                            },
+                            "Account suggestions": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed, who you might know, is on Instagram, and other similar notifications."
+                            },
+                            "Mentions in bio": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "From everyone",
+                                "subtitle": "johnappleseed mentioned you in their bio."
+                            }
+                        }
+                    },
+                    "Messages": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Message requests": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed wants to send you a message."
+                            },
+                            "Messages from individual and group chats": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed sent you a message."
+                            },
+                            "Message reminders": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed sent you a message (1d ago)."
+                            },
+                            "Group requests": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed wants to add janeappleseed to your group."
+                            },
+                            "Broadcast channel invites": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed invited you to join their broadcast channel: Hellow World!"
+                            },
+                            "Broadcast channel messages": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "Personalized for you",
+                                    "On"
+                                ],
+                                "defaultState": "Personalized for you",
+                                "subtitle": "johnappleseed sent you a message."
+                            },
+                            "Broadcast channel replies": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "From profiles I follow",
+                                "subtitle": "johnappleseed replied: Nice shot!"
+                            },
+                            "Broadcast channel reply likes": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed liked your reply: Thanks!"
+                            }
+                        }
+                    },
+                    "Calls": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Video Chats": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "From profiles I follow",
+                                    "From everyone"
+                                ],
+                                "defaultState": "From everyone",
+                                "subtitle": "Incoming video chat from johnappleseed."
+                            }
+                        }
+                    },
+                    "Live and reels": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Original audio": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed created a reel with your audio."
+                            },
+                            "Remixes": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed remixed your reel."
+                            },
+                            "Live videos": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed started a live video."
+                            },
+                            "Recently uploaded reels": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed, johndoe and janedoe recently shared new reels."
+                            },
+                            "Reels suggested for you": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "johnappleseed shared a reel you might like."
+                            },
+                            "Add Yours": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed started an Add Yours prompt."
+                            },
+                            "Reels made for you": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "See new reels made for you."
+                            }
+                        }
+                    },
+                    "Fundraisers": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Your fundraisers": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed donated to your fundraiser."
+                            },
+                            "Fundraisers by others": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed started a fundraiser."
+                            }
+                        }
+                    },
+                    "From Instagram": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Reminders": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "You have unseen notifications, and other similar notifications."
+                            },
+                            "Product announcements & feedback": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "Download Boomerang, Instagram's latest app."
+                            },
+                            "Support requests": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "Your support request from July 10 was just updated."
+                            },
+                            "Trending places": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "John Appleseed Park is a trending place near you. See what's being shared."
+                            }
+                        }
+                    },
+                    "Birthdays": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Birthdays": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "johnappleseed has a birthday today! We'll only notify you for people who choose to tell others about their birthdays on Instagram. You can change who to tell about your birthday any time in your profile Personal information settings."
+                            }
+                        }
+                    },
+                    "Other notifications types": {
+                        "type": "heading",
+                        "newCategory": "notifications"
+                    },
+                    "Email notifications": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Feedback emails": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "Give feedback on Instagram"
+                            },
+                            "Reminder emails": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "Get notifications you may have missed."
+                            },
+                            "Product emails": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "Get tips and resources about Instagram's tools."
+                            },
+                            "News emails": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "Off",
+                                "subtitle": "Learn about new Instagram features."
+                            },
+                            "Support emails": {
+                                "type": "single-choice",
+                                "newCategory": "notifications",
+                                "options": [
+                                    "Off",
+                                    "On"
+                                ],
+                                "defaultState": "On",
+                                "subtitle": "Get updates on reports and violations of our Community Standards."
+                            }
+                        }
+                    },
+                    "Shopping": {
+                        "type": "category",
+                        "newCategory": "notifications",
+                        "items": {
+                            "Accounts you follow": {
+                                "type": "toggle",
+                                "newCategory": "notifications",
+                                "defaultState": "On",
+                                "subtitle": "Get notified when accounts you follow add new products to their shops."
+                            },
+                            "Suggested for you": {
+                                "type": "toggle",
+                                "newCategory": "notifications",
+                                "defaultState": "On",
+                                "subtitle": "Get notified about products and shops you may like based on your activity on Instagram. If you've set up your Accounts Center with Facebook, it will also be based on your activity on Facebook."
+                            }
+                        }
+                    }
+                }
+            },
+            "Time management": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Daily average": {
+                        "type": "time-stats",
+                        "newCategory": ""
+                    },
+                    "Manage your time": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Daily limit": {
+                        "type": "single-choice",
+                        "newCategory": "",
+                        "options": [
+                            "15 minutes",
+                            "30 minutes",
+                            "45 minutes",
+                            "1 hour",
+                            "2 hours",
+                            "Off"
+                        ],
+                        "defaultState": "Off"
+                    },
+                    "Sleep mode": {
+                        "type": "page",
+                        "newCategory": ""
+                    }
+                }
+            },
+            "Who can see your content": {
+                "type": "heading",
+                "newCategory": "post"
+            },
+            "Account privacy": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Private account": {
+                        "type": "toggle",
+                        "newCategory": "post,profile",
+                        "defaultState": "Off",
+                        "subtitle": "When your account is public, your profile and posts can be seen by anyone, on or off Instagram, even if they don't have an Instagram account. When your account is private, only the followers you approve can see what you share, including your photos or videos on hashtag and location pages, like your profile picture and username, is visible to everyone on and off Instagram. Learn more"
+                    }
+                }
+            },
+            "Close Friends": {
+                "type": "page",
+                "newCategory": "post"
+            },
+            "Crossposting": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Recommend reels on facebook": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Allow your reels to be shown with your Instagram username to anyone on Facebook. They won't be shared from your Facebook account, if you have one. Your reels will be Public, so anyone on or off Facebook can view or like your reel. Anyone on Facebook can create reels with your original audio and, if you allow it in your Reels settings on Instagram, remix your video. Learn more"
+                    }
+                }
+            },
+            "Blocked": {
+                "type": "page",
+                "newCategory": "home,post,profile"
+            },
+            "Hide story and live": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Hide story and live from": {
+                        "type": "page",
+                        "newCategory": "post",
+                        "subtitle": "Hide your story and live videos from specific people."
+                    }
+                }
+            },
+            "How others can interact with you": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Messages and story replies": {
+                "type": "category",
+                "newCategory": "dms",
+                "items": {
+                    "How people can reach you": {
+                        "type": "heading",
+                        "newCategory": "dms"
+                    },
+                    "Message requests": {
+                        "type": "category",
+                        "newCategory": "dms",
+                        "items": {
+                            "People you follow or have chatted with before can always message you unless you block them. When anyone else sends you a message, you can receive it as a message request that you can accept or delete.": {
+                                "type": "description",
+                                "newCategory": "dms"
+                            },
+                            "Who can send you message requests": {
+                                "type": "heading",
+                                "newCategory": "dms"
+                            },
+                            "Your followers on Instagram": {
+                                "type": "category",
+                                "newCategory": "dms",
+                                "items": {
+                                    "Deliver requests to": {
+                                        "type": "single-choice",
+                                        "newCategory": "dms",
+                                        "options": [
+                                            "Message requests",
+                                            "Don't receive requests"
+                                        ],
+                                        "defaultState": "Message requests",
+                                        "subtitle": "Message requests from people who follow you on Instagram will be delivered to your Message requests folder unless you choose not to receive them."
+                                    }
+                                }
+                            },
+                            "Others on Instagram": {
+                                "type": "category",
+                                "newCategory": "dms",
+                                "items": {
+                                    "Delivers requests to": {
+                                        "type": "single-choice",
+                                        "newCategory": "dms",
+                                        "options": [
+                                            "Message requests",
+                                            "Don't receive requests"
+                                        ],
+                                        "defaultState": "Message requests",
+                                        "subtitle": "Message requests from other accounts on Instagram will be delivered to your Message requests folder unless you choose not to receive them."
+                                    }
+                                }
+                            },
+                            "Group chats": {
+                                "type": "heading",
+                                "newCategory": "dms"
+                            },
+                            "Who can add you to group chats": {
+                                "type": "category",
+                                "newCategory": "dms",
+                                "items": {
+                                    "Who can add you to group chats": {
+                                        "type": "single-choice",
+                                        "newCategory": "dms",
+                                        "options": [
+                                            "Everyone on Instagram",
+                                            "Only people you follow on Instagram"
+                                        ],
+                                        "defaultState": "Everyone on Instagram"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Story replies": {
+                        "type": "category",
+                        "newCategory": "dms",
+                        "items": {
+                            "Who can reply to your stories": {
+                                "type": "single-choice",
+                                "newCategory": "dms",
+                                "options": [
+                                    "Allow story replies from everyone",
+                                    "Allow story replies only from people you follow",
+                                    "Don't allow story replies"
+                                ],
+                                "defaultState": "Allow story replies from everyone"
+                            }
+                        }
+                    },
+                    "Who can see you're online": {
+                        "type": "heading",
+                        "newCategory": "dms"
+                    },
+                    "Show activity status": {
+                        "type": "category",
+                        "newCategory": "dms",
+                        "items": {
+                            "Show activity status": {
+                                "type": "toggle",
+                                "newCategory": "dms",
+                                "defaultState": "On",
+                                "subtitle": "Allow accounts you follow and anyone you message to see when you were last active or are currently active on Instagram apps. When this is turned off, you won't be able to see the activity status of other accounts. Learn more You can continue to use our services if active status is off."
+                            }
+                        }
+                    },
+                    "Show read receipts": {
+                        "type": "category",
+                        "newCategory": "dms",
+                        "items": {
+                            "Read receipts": {
+                                "type": "toggle",
+                                "newCategory": "dms",
+                                "defaultState": "On",
+                                "subtitle": "Others can see when you've read their messages."
+                            }
+                        }
+                    },
+                    "What you see in messages": {
+                        "type": "heading",
+                        "newCategory": "dms"
+                    },
+                    "Previews": {
+                        "type": "category",
+                        "newCategory": "dms",
+                        "items": {
+                            "Show previews": {
+                                "type": "toggle",
+                                "newCategory": "dms",
+                                "defaultState": "On",
+                                "subtitle": "See previews of Instagram content like posts, stories and reels in your end-to-end encrypted chats. Learn more about previews."
+                            }
+                        }
+                    },
+                    "End-to-end encryption": {
+                        "type": "heading",
+                        "newCategory": "dms"
+                    },
+                    "Security alerts": {
+                        "type": "category",
+                        "newCategory": "dms",
+                        "items": {
+                            "Manage security alerts": {
+                                "type": "heading",
+                                "newCategory": "dms"
+                            },
+                            "Your devices or keys change": {
+                                "type": "toggle",
+                                "newCategory": "dms",
+                                "defaultState": "Off"
+                            },
+                            "Contacts' devices or keys change": {
+                                "type": "toggle",
+                                "newCategory": "dms",
+                                "defaultState": "Off",
+                                "subtitle": "Show alerts when you or your contacts log in on a new device or change keys. Alert for contacts will appear in your chat with them. Learn more"
+                            }
+                        }
+                    }
+                }
+            },
+            "Tags and mentions": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Who can tag you": {
+                        "type": "single-choice",
+                        "newCategory": "profile",
+                        "options": [
+                            "Allow tags from everyone",
+                            "Allow tags from people you follow",
+                            "Don't allow tags"
+                        ],
+                        "defaultState": "Allow tags from everyone",
+                        "subtitle": "Choose who can tag you in their photos and reels. When people try to tag you, they'll see if you don't allow tags from everyone. Potential spam will always be filtered."
+                    },
+                    "How you manage tags": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Manually approve tags": {
+                        "type": "toggle",
+                        "newCategory": "profile",
+                        "defaultState": "Off"
+                    },
+                    "Review tags": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Who can @mention you": {
+                        "type": "single-choice",
+                        "newCategory": "profile",
+                        "options": [
+                            "Allow mentions from everyone",
+                            "Allow mentions from people you follow",
+                            "Don't allow mentions"
+                        ],
+                        "defaultState": "Allow mentions from everyone",
+                        "subtitle": "Choose who can @mention you to link your account in their stories, notes, comments, live videos, and captions. When people try to @mention you, they'll see if you don't allow @mentions."
+                    },
+                    "Allow people to boost stories they mention you in": {
+                        "type": "toggle",
+                        "newCategory": "profile",
+                        "defaultState": "On",
+                        "subtitle": "Coosting turns content into an ad so it can reach more people. Stories you're mentioned in, including ones that share your post and reels, can only be boosted if you have a public account that allows mentions. These stories may also be visible for longer than 24 hours and can be seen by anyone."
+                    },
+                    "Allow people to boost stories that reshare your content and mention you": {
+                        "type": "toggle",
+                        "newCategory": "profile",
+                        "defaultState": "On",
+                        "subtitle": "Stories that reshare your content and mention you can only be boosted into ads if you have a public account that allows mentions. These stories may be visible for more than 24 hours and can be seen by anyone."
+                    }
+                }
+            },
+            "Comments": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Block comments from": {
+                        "type": "page",
+                        "newCategory": "post",
+                        "subtitle": "Any new comments from people you block won't be visible to anyone but them."
+                    },
+                    "Who can comment": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Posts and reels": {
+                        "type": "category",
+                        "newCategory": "post",
+                        "items": {
+                            "This setting will apply to all of your posts.": {
+                                "type": "description",
+                                "newCategory": "post"
+                            },
+                            "Allow comments from": {
+                                "type": "single-choice",
+                                "newCategory": "post",
+                                "options": [
+                                    "Everyone",
+                                    "People you follow",
+                                    "Your followers",
+                                    "People you follow and your followers"
+                                ],
+                                "defaultState": "Everyone"
+                            }
+                        }
+                    },
+                    "Stories": {
+                        "Block comments from": {
+                            "type": "page",
+                            "newCategory": "post"
+                        },
+                        "Controls": {
+                            "type": "single-choice",
+                            "newCategory": "post",
+                            "options": [
+                                "Everyone",
+                                "People you follow",
+                                "Off"
+                            ],
+                            "defaultState": "People you follow"
+                        }
+                    },
+                    "Allow GIF comments": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On",
+                        "subtitle": "People will be able to comment GIFs on your posts and reels."
+                    }
+                }
+            },
+            "Sharing and reuse": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Allow people to share your content": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Posts and reels to stories": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On"
+                    },
+                    "Stories in messages": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On"
+                    },
+                    "Allow people to add notes to your content": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Notes on posts and reels": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On",
+                        "subtitle": "When this is on, people can add notes to your posts and reels. You may not see some notes based on the audience."
+                    },
+                    "Allow people to create with and reuse your content": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Posts": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On"
+                    },
+                    "Reels": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On",
+                        "subtitle": "When these are on, anyone can create with all or part of your posts and reels in remixes, sequences, templates or stickers and download your content as part of their post or reel. They can also save and use any stickers you shared in a reel or story. You can turn off reuse for individual posts or reels from the more menu. You can't turn off reuse of original audio, text or comments. Learn more"
+                    },
+                    "Allow people to share externally": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Downloads": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "When this is on, anyone can download your public reels, original audio from your reels and remixes by others. You can turn off downloading for individual reels from the more menu. Learn more"
+                    },
+                    "Website embeds": {
+                        "type": "single-choice",
+                        "newCategory": "post",
+                        "options": [
+                            "On",
+                            "Off"
+                        ],
+                        "defaultState": "Off",
+                        "subtitle": "When this is on, your public posts or profile can be shown outside of Instagram, including articles and blogs. Learn more"
+                    },
+                    "Allow businesses to interact with you": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Featured content requests in shops": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On",
+                        "subtitle": "When this is on, business accounts can request to feature your photos and videos in their shops across Meta Company Products when you tag accounts with shops or use hashtags related to shops in your posts. Learn more"
+                    },
+                    "Manage featured content": {
+                        "type": "page",
+                        "newCategory": "post",
+                        "subtitle": "Respond to open requests and manage your featured content."
+                    },
+                    "Where you share your story and posts outside of Instagram": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "See apps": {
+                        "type": "category",
+                        "newCategory": "post",
+                        "items": {
+                            "Facebook": {
+                                "type": "page",
+                                "newCategory": "post"
+                            },
+                            "Threads": {
+                                "type": "page",
+                                "newCategory": "post"
+                            }
+                        }
+                    }
+                }
+            },
+            "Restricted": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "Limit interactions": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "Hidden Words": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Unwanted comments and message requests": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Hide comments 1": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On",
+                        "subtitle": "Comments that are potentially offensive, misleading or spam will be moved to a separate section. Anyone can see these comments, and you can unhide comments on your own posts at anytime. Learn more"
+                    },
+                    "Advanced comment filtering": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Even more comments that meet our criteria will automatically be hidden."
+                    },
+                    "Hide message requests 1": {
+                        "type": "toggle",
+                        "newCategory": "dms",
+                        "defaultState": "Off",
+                        "subtitle": "Message requests that may be offensive, spam or scams will be moved to the Hidden requests folder. We'll also filter notifications for these messages. This feature is not currently supported on web or Meta Quest."
+                    },
+                    "Custom words for messages and comments": {
+                        "type": "heading",
+                        "newCategory": ""
+                    },
+                    "Manage custom words and phrases": {
+                        "type": "page",
+                        "newCategory": "dms,post"
+                    },
+                    "Hide comments 2": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Comments that contain words, phrases or emojis on your custom list and similar misspellings will be filtered out so they are only visible to the authors."
+                    },
+                    "Hide message requests 2": {
+                        "type": "toggle",
+                        "newCategory": "dms",
+                        "defaultState": "Off",
+                        "subtitle": "Message requests that contain words from your list will be hidden. This feature is not currently supported on web or Meta Quest."
+                    }
+                }
+            },
+            "Follow and invite friends": {
+                "type": "category",
+                "newCategory": "profile",
+                "items": {
+                    "Following": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Flag for review": {
+                        "type": "toggle",
+                        "newCategory": "profile",
+                        "defaultState": "On",
+                        "subtitle": "Followers and follow requests from certain accounts, including potential spam, will be flagged and moved to a separate section of your Followers list. Learn more"
+                    },
+                    "Follow contacts": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Invite your friends": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Contacts": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Copy invite link": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "WhatsApp": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Invite friends by...": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Messages": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Snapchat": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Messenger": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Facebook": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Reddit": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "X": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    }
+                }
+            },
+            "What you see": {
+                "type": "heading",
+                "newCategory": "home"
+            },
+            "Favorites": {
+                "type": "page",
+                "newCategory": "home"
+            },
+            "Muted accounts": {
+                "type": "page",
+                "newCategory": "home"
+            },
+            "Content preferences": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Content from accounts you don't follow": {
+                        "type": "heading",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "Interested": {
+                        "type": "page",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "Not interested": {
+                        "type": "page",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "Specific words and phrases": {
+                        "type": "page",
+                        "newCategory": "home,explore,reels"
+                    },
+                    "Sensitive content": {
+                        "type": "category",
+                        "newCategory": "home,explore,reels",
+                        "items": {
+                            "Sensitive content doesn't go against our Community guidelines, but refers to topics some people may not want to see. Learn more": {
+                                "type": "description",
+                                "newCategory": "home,explore,reels"
+                            },
+                            "Choose how much sensitive content to see:": {
+                                "type": "single-choice",
+                                "newCategory": "home,explore,reels",
+                                "options": [
+                                    "Less",
+                                    "Standard",
+                                    "More"
+                                ],
+                                "defaultState": "Less",
+                                "subtitle": "This affects search results as well as recommended content in Explore, Reels, feed and hastag pages. This also affects comments you see on other people's posts."
+                            }
+                        }
+                    },
+                    "Political content": {
+                        "type": "category",
+                        "newCategory": "home,explore,reels",
+                        "items": {
+                            "Political content often refers to governments, elections or social topics that affect many people. Learn more If an account you follow shares political content it will be shown in your feed like any other content they share.": {
+                                "type": "description",
+                                "newCategory": "home,explore,reels"
+                            },
+                            "Control political content from accounts you don't follow": {
+                                "type": "single-choice",
+                                "newCategory": "home,explore,reels",
+                                "options": [
+                                    "See less",
+                                    "Standard",
+                                    "See more"
+                                ],
+                                "defaultState": "Standard"
+                            }
+                        }
+                    },
+                    "Snooze suggested posts in feed": {
+                        "type": "toggle",
+                        "newCategory": "home",
+                        "defaultState": "Off",
+                        "subtitle": "Hide suggested posts in feed for 30 days"
+                    },
+                    "Reset suggested content": {
+                        "type": "page",
+                        "newCategory": "home,explore,reels"
+                    }
+                }
+            },
+            "Like and share counts": {
+                "type": "category",
+                "newCategory": "home,explore,reels",
+                "items": {
+                    "Hide like & share counts": {
+                        "type": "toggle",
+                        "newCategory": "home,explore,reels",
+                        "defaultState": "Off",
+                        "subtitle": "On Instagram, the number of likes on posts and reels from other accounts will be hidden. You can hide the number of likes on your own posts and reels by going to Advanced settings before sharing. On Threads, the number of likes, views, reposts and quotes on posts from other profiles will be hidden. You can hide these on your own posts from the menu for each post. Learn more"
+                    }
+                }
+            },
+            "Your app and media": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Device permissions": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Your preferences": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Camera": {
+                        "type": "page",
+                        "newCategory": "post"
+                    },
+                    "Contacts": {
+                        "type": "page",
+                        "newCategory": "post"
+                    },
+                    "Location Services": {
+                        "type": "page",
+                        "newCategory": "post"
+                    },
+                    "Microphone": {
+                        "type": "page",
+                        "newCategory": "post"
+                    },
+                    "Notifications": {
+                        "type": "page",
+                        "newCategory": "post"
+                    },
+                    "Photos": {
+                        "type": "page",
+                        "newCategory": "post"
+                    }
+                }
+            },
+            "Archiving and downloading": {
+                "type": "category",
+                "newCategory": "post",
+                "items": {
+                    "Saving to archive": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Save story to archive": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Automatically save photos and videos to your archive so you don't have to save them to your phone. Only you can see your archive."
+                    },
+                    "Save live to archive": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Automatically save your live video to your archive. Only you can see your archive. Live videos are archived for 30 days."
+                    },
+                    "Saving to camera roll": {
+                        "type": "heading",
+                        "newCategory": "post"
+                    },
+                    "Save original photos": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "On",
+                        "subtitle": "Automatically save the unedited photos and videos taken with Instagram's feed camera to your camera roll."
+                    },
+                    "Save story to Camera Roll": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Automatically save photos and videos to your phone's camera roll."
+                    }
+                }
+            },
+            "Accessibility and translations": {
+                "type": "category",
+                "newCategory": "home,explore,reels",
+                "items": {
+                    "Captions and translations": {
+                        "type": "category",
+                        "newCategory": "home,explore,reels",
+                        "items": {
+                            "Captions": {
+                                "type": "single-choice",
+                                "newCategory": "home,explore,reels",
+                                "options": [
+                                    "Always show closed captions",
+                                    "Only show translated closed captions",
+                                    "Never show closed captions"
+                                ],
+                                "defaultState": "Only show translated closed captions"
+                            },
+                            "Translations": {
+                                "type": "heading",
+                                "newCategory": "home,explore,reels"
+                            },
+                            "Language: English (auto-translated)": {
+                                "type": "description",
+                                "newCategory": "home,explore,reels"
+                            },
+                            "Don't translate": {
+                                "type": "page",
+                                "newCategory": "home,explore,reels",
+                                "subtitle": "Choose languages you prefer to keep untranslated."
+                            },
+                            "Translate stickers and text": {
+                                "type": "toggle",
+                                "newCategory": "home,explore,reels",
+                                "defaultState": "On",
+                                "subtitle": "See stickers and text in your default language when available."
+                            }
+                        }
+                    },
+                    "Disable HDR Video Playback": {
+                        "type": "toggle",
+                        "newCategory": "home,explore,reels",
+                        "defaultState": "Off"
+                    }
+                }
+            },
+            "Language": {
+                "type": "page",
+                "newCategory": "home,explore,profile"
+            },
+            "Media quality": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Use less cellular data": {
+                        "type": "toggle",
+                        "newCategory": "home,explore,reels",
+                        "defaultState": "Off",
+                        "subtitle": "Using less cellular data may affect your experience on Instagram. For exaple, photos and videos may take longer to load."
+                    },
+                    "Upload at highest quality": {
+                        "type": "toggle",
+                        "newCategory": "post",
+                        "defaultState": "Off",
+                        "subtitle": "Always upload the highest quality photos and videos, even if uploading takes longer. When this is off, we'll automatically adjust upload quality to fit network conditions."
+                    },
+                    "Disable HDR Video Playback": {
+                        "type": "toggle",
+                        "newCategory": "home,explore,reels",
+                        "defaultState": "Off",
+                        "subtitle": "HDR (high dynamic range) video offers greater quality in areas of extreme brightness or darkness. As a result, HDR content will appear brighter than standard content."
+                    }
+                }
+            },
+            "App website permissions": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Apps and websites": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Message Links": {
+                        "type": "category",
+                        "newCategory": "",
+                        "items": {
+                            "Open in external browser": {
+                                "type": "toggle",
+                                "newCategory": "profile",
+                                "defaultState": "Off",
+                                "subtitle": "Links shared in messages will open externally."
+                            }
+                        }
+                    }
+                }
+            },
+            "For families": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Family Center": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "For professionals": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Account type and tools": {
+                "type": "category",
+                "newCategory": "profile",
+                "items": {
+                    "Account type": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Switch to professional account": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Add new professional account": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Tools": {
+                        "type": "heading",
+                        "newCategory": "profile"
+                    },
+                    "Branded content": {
+                        "type": "category",
+                        "newCategory": "profile",
+                        "items": {
+                            "Status": {
+                                "type": "heading",
+                                "newCategory": "profile"
+                            },
+                            "Set up branded content tools": {
+                                "type": "page",
+                                "newCategory": "profile",
+                                "subtitle": "Set up branded content tools to start using the paid partnership label."
+                            },
+                            "Support": {
+                                "type": "heading",
+                                "newCategory": "profile"
+                            },
+                            "Learn more": {
+                                "type": "page",
+                                "newCategory": "profile"
+                            }
+                        }
+                    },
+                    "Request verification": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Sign up for Meta Verified": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    }
+                }
+            },
+            "Meta Verified": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "Your orders and fundraisers": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Fundraisers": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "Orders and payments": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "More info and support": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "Help": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "Report a problem": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Account Status": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Meta Verified": {
+                        "type": "page",
+                        "newCategory": ""
+                    },
+                    "Help Center": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Privacy and security help": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Support requests": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    }
+                }
+            },
+            "Privacy Center": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "Account Status": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "About": {
+                "type": "category",
+                "newCategory": "",
+                "items": {
+                    "About your account": {
+                        "type": "page",
+                        "newCategory": "profile"
+                    },
+                    "Privacy Policy": {
+                        "type": "page",
+                        "newCategory": ""
+                    },
+                    "Terms of Use": {
+                        "type": "page",
+                        "newCategory": ""
+                    },
+                    "Open source libraries": {
+                        "type": "page",
+                        "newCategory": ""
+                    }
+                }
+            },
+            "Also from Meta": {
+                "type": "heading",
+                "newCategory": ""
+            },
+            "WhatsApp": {
+                "type": "page",
+                "newCategory": ""
+            },
+            "Edits": {
+                "type": "page",
+                "newCategory": ""
+            },
+            "Threads": {
+                "type": "page",
+                "newCategory": ""
+            },
+            "Facebook": {
+                "type": "page",
+                "newCategory": ""
+            },
+            "Meta Quest": {
+                "type": "page",
+                "newCategory": ""
+            },
+            "Login": {
+                "type": "heading",
+                "newCategory": "profile"
+            },
+            "Add account": {
+                "type": "page",
+                "newCategory": "profile"
+            },
+            "Log out": {
+                "type": "page",
+                "newCategory": "profile"
+            }
+        }
+    }
+}
