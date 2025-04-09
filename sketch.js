@@ -153,12 +153,12 @@ function preload() {
     images.push(loadImage(filename));
   }
 
-  profileReg = loadImage("/profile-regular.jpg");
-  postReg = loadImage("/post-regular.jpg");
-  reelsReg = loadImage("/reels-reg-min.jpg");
-  exploreReg = loadImage("/explore-reg-min.jpg");
-  notifReg = loadImage("/notif-reg.jpg");
-  dmsReg = loadImage("/dms-reg.jpg");
+  profileReg = loadImage("./profile-regular.jpg");
+  postReg = loadImage("./post-regular.jpg");
+  reelsReg = loadImage("./reels-reg-min.jpg");
+  exploreReg = loadImage("./explore-reg-min.jpg");
+  notifReg = loadImage("./notif-reg.jpg");
+  dmsReg = loadImage("./dms-reg.jpg");
 }
 
 function setup() {
