@@ -468,6 +468,7 @@ function nextTrial() {
       //if this is not the last condition
       if (currentCond < conditionOrder.length - 1) {
         currentCond++;
+        currentRep = 0;
         condChangeFlag = true; //change to true since it's a new technique.
         trainingComplete = false;
       }
