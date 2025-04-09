@@ -131,7 +131,7 @@ let originalSet;
 let tabsSet;
 let tabsCMSet;
 let conditionOrder = [];
-let numReps = 1;
+let numReps = 5;
 let currentRep = 0;
 let currentCond = 0;
 let currentSettingIndex = 0;
